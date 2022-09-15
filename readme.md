@@ -72,7 +72,7 @@ There are a few interactive graphs for PYPL specifically: the daily returns and 
 ---
 
 
-### Here picture of Cumulative Returns from 2016-2020:
+### Heres a picture of Cumulative Returns from 2016-2020:
 !['GDOT, GS, PYPL & SQ Cumulative Returns from 2016-2020](readme_images/cumret.png)
 ## Contributors
 
